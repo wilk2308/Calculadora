@@ -47,4 +47,4 @@ O código inclui validações simples, como evitar divisão por zero e raiz quad
 
 ---
 
-👨‍💻 Projeto desenvolvido por [Seu Nome](https://github.com/seu-usuario)
+👨‍💻 Projeto desenvolvido por [Will](https://github.com/wilk2308/)
